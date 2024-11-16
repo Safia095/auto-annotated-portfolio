@@ -4,7 +4,7 @@ title: "Introduction To HTML  \U0001F5C2️"
 colors: colors-a
 date: '2024-11-16'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: More context that may be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
