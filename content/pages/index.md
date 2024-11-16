@@ -98,6 +98,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Introduction to HTML
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
