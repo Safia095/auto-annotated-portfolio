@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "How to Structure and Organize an HTML Project \U0001F5C2️"
+title: "Introduction To HTML  \U0001F5C2️"
 colors: colors-a
 date: '2024-11-16'
 author: content/data/team/doris-soto.json
