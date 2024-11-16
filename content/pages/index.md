@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      HEY MY NAME IS SAFIA.I’m a developer,consultant and a bunch of other
+      impressive titles.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
@@ -47,58 +47,29 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: 'Projects'
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: >-
+      Introduction to HTML:1. HTML Elements and Tags:   - HTML uses elements
+      defined by tags (e.g., <tag>). Tags usually come in pairs: an opening tag
+      and a closing tag.2. Structure of an HTML Document:   - Doctype
+      Declaration:  Declares the document type and version of HTML.   - HTML
+      Element: The root element containing all other HTML elements.   - Head
+      Element: Contains meta-information, like the title and character set.   -
+      Title Element: Sets the title of the webpage shown in the browser tab.  
+      Meta Charset Element: Specifies the character encoding for the document.  
+      - Meta Viewport Element:  Ensures the page is responsive and adjusts to
+      different screen sizes.   - Body Element: Contains the content of the
+      webpage displayed to users.### Key HTML Elements: Headings: Used to create
+      different levels of headings. Paragraphs: Represents a block of text.-
+      Links: Creates hyperlinks to other pages or resources.- Images: Embeds
+      images into the webpage.- Lists: Organizes content into ordered or
+      unordered lists.
     showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+    actions: []
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -127,6 +98,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Introduction to HTML
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
