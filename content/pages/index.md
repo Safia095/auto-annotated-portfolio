@@ -54,8 +54,7 @@ sections:
     subtitle: Featured Posts
     showFeaturedImage: false
     actions: []
-    posts:
-      - content/pages/blog/post-six.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
