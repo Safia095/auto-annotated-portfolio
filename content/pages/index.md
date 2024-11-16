@@ -54,19 +54,19 @@ sections:
     subtitle: >-
       Introduction to HTML:1. HTML Elements and Tags:   - HTML uses elements
       defined by tags (e.g., <tag>). Tags usually come in pairs: an opening tag
-      and a closing tag.2. Structure of an HTML Document:*   - Doctype
+      and a closing tag.2. Structure of an HTML Document:   - Doctype
       Declaration:  Declares the document type and version of HTML.   - HTML
       Element: The root element containing all other HTML elements.   - Head
       Element: Contains meta-information, like the title and character set.   -
       Title Element: Sets the title of the webpage shown in the browser tab.  
       Meta Charset Element: Specifies the character encoding for the document.  
-      - *Meta Viewport Element:* Ensures the page is responsive and adjusts to
-      different screen sizes.   - *Body Element:* Contains the content of the
-      webpage displayed to users.### Key HTML Elements:- *Headings:* Used to
-      create different levels of headings.- *Paragraphs:* Represents a block of
-      text.- *Links:* Creates hyperlinks to other pages or resources.- *Images:*
-      Embeds images into the webpage.- *Lists:* Organizes content into ordered
-      or unordered lists.
+      - Meta Viewport Element:  Ensures the page is responsive and adjusts to
+      different screen sizes.   - Body Element: Contains the content of the
+      webpage displayed to users.### Key HTML Elements: Headings: Used to create
+      different levels of headings. Paragraphs: Represents a block of text.-
+      Links: Creates hyperlinks to other pages or resources.- Images: Embeds
+      images into the webpage.- Lists: Organizes content into ordered or
+      unordered lists.
     showFeaturedImage: false
     actions: []
     posts: []
