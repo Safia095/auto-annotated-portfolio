@@ -2,7 +2,7 @@
 type: PostLayout
 title: "How to Structure and Organize an HTML Project \U0001F5C2️"
 colors: colors-a
-date: '2024-06-03'
+date: '2024-11-03'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
