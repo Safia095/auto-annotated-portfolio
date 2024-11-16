@@ -52,7 +52,7 @@ sections:
     colors: colors-f
     variant: variant-d
     subtitle: >-
-      Introduction to HTML:1. *HTML Elements and Tags:*   - HTML uses elements
+      Introduction to HTML:1. HTML Elements and Tags:*   - HTML uses elements
       defined by tags (e.g., <tag>). Tags usually come in pairs: an opening tag
       and a closing tag.2. *Structure of an HTML Document:*   - *Doctype
       Declaration:* Declares the document type and version of HTML.   - *HTML
